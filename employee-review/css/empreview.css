@@ -1,0 +1,315 @@
+.headerStyle
+{
+	background-color:black;
+}
+body
+{
+	margin:0px;
+	
+}
+.container
+{
+	height:auto;
+	background-color:#ECF0F1;
+	margin-bottom:80px;
+	border-radius:5px;
+	box-shadow:1px solid black;
+	
+}
+.empInformation
+{
+	background-color:black;
+	color:white;
+	height:30px;
+	font-size:20px;
+	margin-top:20px;
+	border-radius:5px;
+}
+.rightColumn
+{
+	float:left;
+	width:50%;
+	height:100px;
+	margin-top:20px;
+		
+}
+.leftColumn
+{
+	width:50%;
+	float:left;
+	height:100px;
+	margin-top:20px;
+}
+.details
+{
+	float:left;
+	width:50%;
+}
+.userField
+{
+	float:left;
+	width:50%;
+	margin-bottom:18px;
+    border-radius:5px;
+	padding:5px;
+}
+.userField #fromdate
+{
+	margin-left:2px;
+}
+.userField select
+{
+	width:70%;
+	padding:5px;
+}
+.userField div
+{
+	margin-bottom:20px;
+}
+.userField input
+{
+	padding:5px;
+}
+.labels .dept
+{
+	padding-left:5px;
+}
+.perEvaluation
+{
+	background-color:black;
+	color:white;
+	height:30px;
+	font-size:20px;
+	margin-top:190px;
+	border-radius:5px;
+}
+.perEvaluationRow
+{
+	clear:both;
+	margin-bottom:50px;
+}
+.fields label
+{
+	text-align:left;
+	float:left;
+	width:30%;
+	margin-left:20px;
+}
+.inputFields
+{
+	float:left;
+	width:35%;
+	margin-top:20px;
+}
+.inputFields span
+{
+	margin-right:20px;
+}
+.comments
+{
+	float:left;
+	width:30%;
+}
+.comments *
+{	
+	vertical-align: middle;
+}
+.oppForDevolop
+{
+	margin-top:50px;
+	background-color:black;
+	color:white;
+	height:30px;
+	font-size:20px;
+	border-radius:5px;
+}
+.textbox
+{
+	margin-top:10px;
+}
+.perEvaluationRow
+{
+	height:30px;
+}
+.oppForDevoloptxt
+{
+	margin-top:10px;
+}
+.fields
+{
+	display:block;
+	margin-top:25px;
+}
+.subButton
+{
+	width:100px;
+	height:35px;
+	margin-top:20px;
+	background-color:#839192;
+	border:none;
+	box-shadow:1px 1px 1px 1px #34495E;
+	cursor:pointer;
+	border-radius:20px;
+	color:white;
+	
+}
+footer
+{
+	background-color:black;
+	height:60px;
+	color:White;
+}
+.footerLeft
+{
+	margin-left:150px;
+	margin-top:15px;
+	float:left;
+}
+.footerRight
+{
+	margin-right:150px;
+	float:right;
+	margin-top:15px;
+}
+.date
+{
+	width:168px;
+}
+.deptstyle
+{
+	width:460px;
+}
+.inputFields .radiobutton
+{
+	display:none;
+}
+.textfield
+{
+	width:30%;
+	font-size:20px;
+	float:left;
+	margin-left:150px;
+}
+.loginField
+{
+	margin-bottom:50px;
+}
+.loginIcon
+{
+	width:150px;
+	height:150px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.submitButton input
+{
+	padding:5px;
+	width:300px;
+	height:30px;
+	margin-top:30px;
+	border-radius:8px;
+	margin-left:50px;
+}
+input:focus
+{
+	outline:none;
+}
+.inputfield input
+{
+	padding:5px;
+	border-radius:8px;
+	margin-left:10px;
+}
+.inputfield
+{
+
+	width:20%;
+	float:left;
+}
+.indexspan{
+	width:30%;
+	float:left;
+}
+.bodyDivision input,select
+{
+	padding:5px;
+	margin-top:50px;
+	margin-right:50px;
+}
+.container .clickbutton {
+   
+	width:100px;
+	height:35px;
+	margin-top:60px;
+	background-color:#839192;
+	border:none;
+	box-shadow:1px 1px 1px 1px #34495E;
+	cursor:pointer;
+	border-radius:20px;
+	color:white;
+	margin-right:16px;
+}
+.logoutButton
+{
+	background-color:white;
+	float:right;
+	margin-top:20px;
+	margin-right:30px;
+}
+.lable
+{
+	width:30%;
+	float:left;	
+}
+.inputdiv
+{
+	float:left;
+	margin-bottom:20px;
+	width:30%;	
+}
+.errmsg
+{
+	float:left;
+	width:30%;
+}
+.fieldset
+{
+	margin-top:60px;
+	clear:both;
+}
+.button
+{
+	margin-right:150px;
+	margin-top:-200px;
+}
+.button input
+{
+	width:200px;
+	margin-top:20px;
+	background-color:#839192;
+	border:none;
+	box-shadow:1px 1px 1px 1px #34495E;
+	cursor:pointer;
+	border-radius:20px;
+	color:white;
+	height:30px;
+}
+.inputdiv select
+{
+	width:205px;
+}
+.userField .defvalue
+{
+	width:170px;
+	height:30px;
+}
+.okbutton
+{
+	margin-left:400px;
+}
+#selectbox
+{
+	width:170px;
+	height:30px;
+}
+
